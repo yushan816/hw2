@@ -1,0 +1,94 @@
+html{
+	width: 100%;
+	background-color: #DAF7A6 ;
+	padding: 0%;
+	border: 0ch;
+	margin: 0%;
+}
+
+* {
+	box-sizing: border-box;
+}
+p,h1,h2,h3,h4,h4,h6,div,span {
+	font-family:PingFangSC-Regular,sans-serif,Microsoft JhengHei;	
+	padding: 0%;
+	margin: 0%;
+}
+
+p {
+	width: 100%;
+	height: auto;
+	align-content: center;
+	justify-content: center;
+	word-wrap:break-word;
+	padding: 5%;
+	margin: 0%;
+	font-size: 16px;
+	color: rgb(110, 77, 16);
+	background-color: rgb(245, 222, 179);
+	
+}
+
+
+
+
+.body{
+	padding: 0%;
+	margin: 0%;
+	background-color: #DAF7A6 ;
+}
+.banner {
+	padding: 0%;
+	margin: 0%;
+	display: flex;
+	margin-top: 10px;
+	align-items: center;
+	align-content: center;
+	background-color: #DAF7A6 ;
+	justify-content: center;
+	
+	
+}
+.banner img {
+	padding: 0%;
+	margin: 0%;
+	display: flex;
+	align-content: center;
+	justify-content:center;
+	height: autO;
+	margin-bottom:7px;
+}
+
+
+
+.product {
+	padding: 0%;
+	margin: 0%;
+	background-color: #DAF7A6 ;
+}
+.product .card {
+	padding: 0%;
+	margin: 0%;
+	background-color: #DAF7A6 ;
+	padding: 20px 10px;
+	margin-bottom: 10px;
+}
+.product img {
+	padding: 0%;
+	margin: 0%;
+	width:100%;
+	height: autO;
+	margin-bottom:7px;
+}
+
+.row{
+	padding: 0%;
+	margin: 0%;
+	margin:12px;
+}
+
+.product_name {
+	padding: 0%;
+	margin: 0%;
+	padding: 10px;
+}
